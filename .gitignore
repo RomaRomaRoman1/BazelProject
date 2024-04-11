@@ -1,0 +1,4 @@
+bazel-*
+
+# Project exclude paths
+/target/
